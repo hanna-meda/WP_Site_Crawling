@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # URL of the WordPress site's homepage
-url = 'https://shroomareala.ro'
+url = 'https://www.crawler-test.com/'
 
 # Send a GET request to fetch the page content
 response = requests.get(url)
